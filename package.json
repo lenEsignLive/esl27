@@ -1,0 +1,28 @@
+{
+	"status": "DRAFT",
+	"roles": [{
+		"id": "signer1",
+		"signers": [{
+			"email": "jdoe@somthing.com",
+			"firstName": "j",
+			"lastName": "doe"
+		}]
+	}],
+	"documents": [{
+		"description": "Some description",
+		"approvals": [{
+			"role": "signer1",
+			"fields": [{
+				"type": "SIGNATURE",
+				"subtype": "FULLNAME",
+				"page": 0,
+				"top": 100.0,
+				"left": 100.0,
+				"width": 199.99978637695312,
+				"height": 39.99995803833008
+			}]
+		}],
+		"name": "First document"
+	}],
+	"name": "PYTHON CREATE"
+}

@@ -1,0 +1,25 @@
+{
+  "status": "DRAFT",
+  "name": "Template Create Test",
+     "roles": [
+    {
+      "id": "please enter",
+      "signers": [
+        {
+          "email": "j@maininator.com",
+          "firstName": "j",
+          "lastName": "deo"
+        }
+      ]
+    }, {
+      "id": "please enter",
+      "signers": [
+        {
+          "email": "jjdoe@something.com",
+          "firstName": "jj",
+          "lastName": "doe"
+        }
+      ]
+    }
+  ]
+}
